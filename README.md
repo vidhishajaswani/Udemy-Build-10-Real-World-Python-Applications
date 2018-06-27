@@ -1,4 +1,4 @@
-# Udemy: Build 10 Real World Python Applications
+# Udemy: Build Real World Python Applications
 
 ## Data Dictionary
 * Console applications that displays meaning of a word like a dictionary. Special features include spell check and finding the closest match to the word.
